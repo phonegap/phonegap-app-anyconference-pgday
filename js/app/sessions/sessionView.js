@@ -42,7 +42,7 @@ define(function(require, exports, module) {
 					cl.add('anyconf-label-status--next'); // .add('js-timeflag--next');
 					break;
 				case timeFlag.CURRENT:
-					cl.add('js-timeflag--current');
+					cl.add('anyconf-label-status--current');
 					break;
 			}
 		},

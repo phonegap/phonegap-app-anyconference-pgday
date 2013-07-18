@@ -1,13 +1,13 @@
 <div class="anyconf-view__container anyconf-scroll-content">
-    <div class="topcoat-navigation-bar__item left anyconf-label-time anyconf-view--yellow">
+    <div class="topcoat-navigation-bar__item left anyconf-label-time anyconf-view--bordered">
         <%- startTime.time %><small><%- startTime.suffix %></small>&nbsp;–&nbsp;<%- endTime.time %><small><%- endTime.suffix %></small>
     </div>
-    <div class="anyconf-view anyconf-view--yellow <%- !speakers.length ? 'anyconf-view--yellow-last' : '' %>">
+    <div class="anyconf-view anyconf-view--bordered <%- !speakers.length ? 'anyconf-view--bordered-last' : '' %>">
         <h2 class="anyconf-label-title"><%- title %></h2>
         <p><%- details %></p>
     </div>
     <% if( speakers.length ) { %>
-        <div class="anyconf-view anyconf-view--yellow anyconf-view--yellow-last">
+        <div class="anyconf-view anyconf-view--bordered anyconf-view--bordered-last">
             <h4 class="anyconf-label-title anyconf-condensed">Presented By:</h4>
             <% _.each(speakers, function(data) { %> 
                 <div class="anyconf-session-speakers">
