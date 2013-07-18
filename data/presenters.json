@@ -16,14 +16,6 @@
     "bio": "Ray Camden is a 40 year old married father of three living in beautiful Lafayette, Louisiana. He is a developer evangelist for Adobe. His primary technical focus is on web standards and mobile development."
 }, {
     "id": "sp3",
-    "first_name": "Jean-Christophe",
-    "last_name": "Cimetiere",
-    "company": "",
-    "title": "",
-    "profile_url": "https://attendease.com/assets/user-placeholder-80x80.png",
-    "bio": "Jean-Christophe is here representing one of our great sponsors, Microsoft."
-}, {
-    "id": "sp3",
     "first_name": "CJ",
     "last_name": "Gammon",
     "company": "",
@@ -134,4 +126,12 @@
     "title": "",
     "profile_url": "https://attendease.com/assets/user-placeholder-80x80.png",
     "bio": "Tommy-Carlos Williams is a mobile developer from Melbourne, Australia. Probably best known in PhoneGap circles as “devgeeks” on IRC where he can be found railing against jQuery Mobile and helping devs with their apps. He is lead developer for SpiderOak’s mobile team working on their cross-platform open source apps. A committer to the Apache Cordova project, he enjoys talking in the third person, vegan food, beer, attempts at humour, and trying to sound humble through self-deprecation."
+}, {
+    "id": "sp17",
+    "first_name": "Jean-Christophe",
+    "last_name": "Cimetiere",
+    "company": "",
+    "title": "",
+    "profile_url": "https://attendease.com/assets/user-placeholder-80x80.png",
+    "bio": "Jean-Christophe is here representing one of our great sponsors, Microsoft."
 }]
