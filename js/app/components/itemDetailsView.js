@@ -85,7 +85,7 @@ define(function(require, exports, module) {
 		    var messageEl = this.el.querySelector('.pta-message');		    
             var options = {
                 wrapperEl: this.el,
-                scrollerEl: this.el.firstChild,
+                scrollerEl: this.el.firstElementChild,
                 messageEl: messageEl,
                 
                 onPull: function() {
