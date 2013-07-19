@@ -1,5 +1,5 @@
-AnyConference
-=============
+AnyConference PhoneGap Day Edition
+==================================
 
 A whitelabel conference application demonstrating PhoneGap and Topcoat usage.
 
